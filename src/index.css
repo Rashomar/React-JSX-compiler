@@ -1,0 +1,31 @@
+*{
+	margin:0;
+}
+header{
+	font-family: "Verdana";
+	height: 5vh;
+	font-weight: bold; 
+	font-size: 27px;
+	text-align: center;
+	background:rgb(255,230,0);
+}
+.container{
+	display: flex;
+	height: 92vh;
+}
+pre, textarea{
+	width:50%;
+	font-size: 14px;
+}
+textarea{
+	resize: none;
+}
+pre{
+	background:beige;
+	overflow: scroll;
+}
+footer{
+	height: 3vh;
+	color:red;
+	background-color: silver;
+}
