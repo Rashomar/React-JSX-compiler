@@ -1,9 +1,10 @@
 # React-JSX-compiler
 JSX-compiler made with React
 
-```bash
+
 ## Getting Started
 
+```bash
 # clone repo
 git clone https://github.com/Rashomar/React-JSX-compiler.git
 
