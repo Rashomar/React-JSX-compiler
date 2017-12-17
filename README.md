@@ -1,6 +1,8 @@
 # React-JSX-compiler
 JSX-compiler made with React
 
+```bash
+## Getting Started
 
 # clone repo
 git clone https://github.com/Rashomar/React-JSX-compiler.git
@@ -15,3 +17,4 @@ npm install
 npm start
 
 Go to localhost:3000
+
